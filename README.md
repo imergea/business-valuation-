@@ -1,6 +1,7 @@
 # Business Valuation Tool – Instantly Estimate Your Company’s Worth
 
-![License](https://img.shields.io/badge/license-All--Rights--Reserved-red)
+![License](https://img.shields.io/badge/license-All--Rights--Reserved-red)![Imergea](https://img.shields.io/badge/Website-Imergea.com-blue)
+
 
 > 💼 A fast, founder-friendly valuation tool built for SMEs. Calculate your company’s value using EBITDA multiples, Discounted Cash Flow, and Market Comparables — in just a few clicks.
 
